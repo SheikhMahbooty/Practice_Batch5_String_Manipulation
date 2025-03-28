@@ -4,4 +4,4 @@
 input_name = input("Enter your name: ")
 
 #Print in lower case
-print("Your name in caps is:",input_name.lower())
+print("Your name in lower is:",input_name.lower())
