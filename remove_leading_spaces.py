@@ -3,7 +3,7 @@
 # Ask the user to input their full name with spaces at the beginning
 input_name = input("Input: ")
 
-# Remove spaces
+# Remove spaces 
 stripped_name = input_name.lstrip()
 
 # Print the cleaned name
