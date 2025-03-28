@@ -3,6 +3,6 @@
 #Input user's name
 input_name = input("Enter your name: ")
 
-#Print in lower case
+#Print in correct case
 print("Your name in proper casing is:",input_name.title())
 
