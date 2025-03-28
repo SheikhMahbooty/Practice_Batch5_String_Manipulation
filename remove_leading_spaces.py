@@ -5,6 +5,6 @@ input_name = input("Input: ")
 
 # Remove spaces 
 stripped_name = input_name.lstrip()
-
+ 
 # Print the cleaned name
 print("output:", stripped_name)
